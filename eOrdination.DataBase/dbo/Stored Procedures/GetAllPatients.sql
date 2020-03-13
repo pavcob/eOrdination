@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [GetAllPatients]
+AS
+BEGIN
+	SELECT * FROM Patient
+END;
